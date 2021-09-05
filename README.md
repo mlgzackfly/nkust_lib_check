@@ -12,7 +12,7 @@ python3
 `pip install -r requirements.txt`
 
 執行  
-`python3 main.py`
+`python3 lib.py`
 
 # 之後要改的
 1. 有些網站明明能連但還是顯示錯誤
